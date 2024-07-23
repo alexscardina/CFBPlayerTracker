@@ -19,6 +19,7 @@
     "svelte": "^3.55.0"
   },
   "dependencies": {
+    "flowbite-svelte": "^0.46.15",
     "sirv-cli": "^2.0.0",
     "uuid": "^10.0.0",
     "yarn": "^1.22.22"
